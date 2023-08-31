@@ -9,6 +9,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:antoniofernando.1911@gmail.com)
 
 ## Meus repositórios
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniofernandoqa&repo=js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniofernandoQA/js-developer-pokedex)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniofernandoqa&repo=SistemaBancarioComPython&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniofernandoQA/SistemaBancarioComPython)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniofernandoqa&repo=LojinhaAPIAutomacao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniofernandoQA/LojinhaAPIAutomacao)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniofernandoqa&repo=mentoria_desafio04&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniofernandoQA/mentoria_desafio04)
